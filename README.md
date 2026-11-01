@@ -1,5 +1,5 @@
 <div align="right">
-	<img src="https://img.shields.io/badge/EN--0e76a8?style=flat-square&labelColor=0e76a8" alt="English" /><a href="README.bd.md"><img src="https://img.shields.io/badge/BN--e8e8e8?style=flat-square&labelColor=e8e8e8&logo=bangladesh&logoColor=0e76a8" alt="Bangla" /></a>
+	<a href="README.md"><img src="https://img.shields.io/badge/EN--e8e8e8?style=flat-square&labelColor=e8e8e8" alt="English version" /></a><img src="https://img.shields.io/badge/BN--0e76a8?style=flat-square&labelColor=0e76a8" alt="বাংলা" /><br>
 	<img src="https://komarev.com/ghpvc/?username=tarikurrahmann&label=Profile%20Views&color=0e76a8&style=flat-square&base=2471" alt="Profile Views" />
 </div>
 
@@ -36,10 +36,10 @@
 
 ## Tech Stack
 
-**Programming:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-**Robotics & Hardware:** ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-**Web Development:** ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-**Tools:** ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Programming:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
+**Robotics & Hardware:** ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP](https://img.shields.io/badge/ESP-E7352C?style=for-the-badge&logo=espressif&logoColor=white)<br>
+**Web Development:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br>
+**Tools:** ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -91,10 +91,10 @@
 
 <div align="center">
   <a href="https://www.credly.com/badges/3beead14-75e8-447f-bef4-ca6ff14182ea/public_url">
-    <img src="https://images.credly.com/size/340x340/images/86687ad2-84e0-4d7c-876e-ea6c9fe25d82/blob" width="170" alt="Credly Verified Badge" />
+    <img src="https://images.credly.com/size/340x340/images/86687ad2-84e0-4d7c-876e-ea6c9fe25d82/blob" width="170" height="170" style="object-fit: contain" alt="Microsoft Pro Badge: GitHub Copilot - Proficient" />
   </a>
   <a href="https://gitfut.com/TarikurRahmann">
-    <img src="https://gitfut.com/TarikurRahmann.png?country=bd" width="170" alt="GitFut Profile Card" />
+    <img src="https://gitfut.com/TarikurRahmann.png?country=bd" width="170" height="170" style="object-fit: contain" alt="GitFut Profile Card" />
   </a>
 </div>
 
