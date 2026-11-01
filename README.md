@@ -93,8 +93,8 @@
   <a href="https://www.credly.com/badges/3beead14-75e8-447f-bef4-ca6ff14182ea/public_url">
     <img src="https://images.credly.com/size/340x340/images/86687ad2-84e0-4d7c-876e-ea6c9fe25d82/blob" width="180" alt="Credly Verified Badge" />
   </a>
-  <a href="https://github.com/features/copilot">
-    <img src="https://img.shields.io/badge/GitHub_Copilot-Proficient-0078D4?style=for-the-badge&logo=github&logoColor=white" width="180" alt="GitHub Copilot Proficient" />
+  <a href="https://gitfut.com/TarikurRahmann">
+    <img src="https://gitfut.com/TarikurRahmann.png?country=bd" width="180" alt="GitFut Profile Card" />
   </a>
 </div>
 
