@@ -94,7 +94,7 @@
     <img src="https://images.credly.com/size/340x340/images/86687ad2-84e0-4d7c-876e-ea6c9fe25d82/blob" width="180" alt="Credly Verified Badge" />
   </a>
   <a href="https://gitfut.com/TarikurRahmann">
-    <img src="https://gitfut.com/TarikurRahmann.png?country=bd" width="180" alt="GitFut Profile Card" />
+    <img src="https://gitfut.com/TarikurRahmann.png?country=bd" width="150" alt="GitFut Profile Card" />
   </a>
 </div>
 
