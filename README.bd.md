@@ -20,7 +20,7 @@
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-00D2FF?style=flat-square&logo=vercel&logoColor=white)](https://yourtarikur.vercel.app/)
 [![Bio](https://img.shields.io/badge/My_Bio-36BCF7?style=flat-square)](https://mybio.bd/yourtarikur)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarikurrahmann)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tarikurrahman2008@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tarikurrahman08@gmail.com)
 
 </div>
 
@@ -81,16 +81,25 @@
 <table>
 	<tr>
 		<td width="50%" align="center">
-			<img src="https://ghstats.dev/api/card?username=TarikurRahmann&amp;hide_border=true&amp;hide=issues" width="100%" alt="GitHub Stats Card" />
+			<img src="https://ghstats.dev/api/card?username=tarikurrahmann&amp;hide_border=true&amp;hide=issues" width="100%" alt="GitHub Stats Card" />
 		</td>
 		<td width="50%" align="center">
-			<img src="https://ghstats.dev/api/langs?username=TarikurRahmann&amp;hide_border=true&amp;max_langs=10&amp;layout=vertical_list" width="100%" alt="Top Languages" />
+			<img src="https://ghstats.dev/api/langs?username=tarikurrahmann&amp;hide_border=true&amp;max_langs=10&amp;layout=vertical_list" width="100%" alt="Top Languages" />
 		</td>
 	</tr>
 </table>
 
+<div align="center">
+  <a href="https://www.credly.com/badges/3beead14-75e8-447f-bef4-ca6ff14182ea/public_url">
+    <img src="https://images.credly.com/size/340x340/images/86687ad2-84e0-4d7c-876e-ea6c9fe25d82/blob" width="170" height="170" style="object-fit: contain" alt="Microsoft Pro Badge: GitHub Copilot - Proficient" />
+  </a>
+  <a href="https://gitfut.com/TarikurRahmann">
+    <img src="https://gitfut.com/TarikurRahmann.png?country=bd" width="170" height="170" style="object-fit: contain" alt="GitFut Profile Card" />
+  </a>
+</div>
+
 ## যোগাযোগ
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TarikurRahmann) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/tarikurrahmann) [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tarikurrahmann) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tarikurrahmann) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tarikurrahmann)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tarikurrahmann) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/tarikurrahmann) [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tarikurrahmann) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tarikurrahmann) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tarikurrahmann)
 
 </div>
