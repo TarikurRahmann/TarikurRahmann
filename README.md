@@ -1,5 +1,5 @@
 <div align="right">
-	<img src="https://img.shields.io/badge/EN--0e76a8?style=flat-square&labelColor=0e76a8" alt="English" /><a href="README.bd.md"><img src="https://img.shields.io/badge/BN--e8e8e8?style=flat-square&labelColor=e8e8e8" alt="বাংলা সংস্করণ" /></a><br>
+	<img src="https://img.shields.io/badge/EN--0e76a8?style=flat-square&labelColor=0e76a8" alt="English" /><a href="README.bd.md"><img src="https://img.shields.io/badge/BN--e8e8e8?style=flat-square&labelColor=e8e8e8&logo=bangladesh&logoColor=0e76a8" alt="Bangla" /></a>
 	<img src="https://komarev.com/ghpvc/?username=tarikurrahmann&label=Profile%20Views&color=0e76a8&style=flat-square&base=2471" alt="Profile Views" />
 </div>
 
@@ -13,7 +13,7 @@
 
 ### Robotics & AI Explorer | Computer Vision | Web Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=560&lines=Exploring+Robotics+%26+AI;Building+with+Computer+Vision;Creating+useful+web+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=560&lines=Exploring+Robotics+%26+AI;Building+with+Computers;Designing+Smart+Systems;Solving+Real+World+Problems)](https://github.com/TarikurRahmann)
 
 *Hi, I'm Tarikur Rahman, a developer from Bangladesh exploring robotics, AI, and computer vision. I enjoy turning ideas into practical projects.*
 
@@ -30,16 +30,16 @@
 
 </div>
 
-<p align="center"><strong>System Architect</strong> at <strong>Team DEMON71</strong> &nbsp;·&nbsp; <strong>Founder</strong> of <strong>Robo Haat BD</strong> &nbsp;·&nbsp; <strong>Research Editor</strong> at <strong>Udvaboni Biggan Club</strong></p>
+<p align="center"><strong>System Architect</strong> at <strong>Team DEMON71</strong> &nbsp;·&nbsp; <strong>Founder</strong> of <strong>Robo Haat BD</strong> &nbsp;·&nbsp; <strong>Research Editor</strong> of <strong>RoboHaat</strong> &nbsp;·&nbsp; <strong>AI & Robotics Enthusiast</strong></p>
 
 <div align="center">
 
 ## Tech Stack
 
-**Programming:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
-**Robotics & Hardware:** ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP](https://img.shields.io/badge/ESP-E7352C?style=for-the-badge&logo=espressif&logoColor=white)<br>
-**Web Development:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br>
-**Tools:** ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Programming:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+**Robotics & Hardware:** ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+**Web Development:** ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+**Tools:** ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -89,8 +89,12 @@
 	</tr>
 </table>
 
+<a href="https://www.credly.com/badges/3beead14-75e8-447f-bef4-ca6ff14182ea/public_url">
+  <img src="https://img.shields.io/badge/Credly-Verified%20Badge-FF6B6B?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Verified Badge" />
+</a>
+
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TarikurRahmann) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/tarikurrahmann) [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tarikurrahmann) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tarikurrahmann) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tarikurrahmann)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TarikurRahmann) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/TarikurRahmann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarikurrahmann) [![Portfolio](https://img.shields.io/badge/Portfolio-00D2FF?style=flat-square&logo=vercel&logoColor=white)](https://yourtarikur.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tarikurrahman08@gmail.com)
 
 </div>
