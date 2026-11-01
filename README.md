@@ -90,7 +90,7 @@
 </table>
 
 <a href="https://www.credly.com/badges/3beead14-75e8-447f-bef4-ca6ff14182ea/public_url">
-  <img src="https://img.shields.io/badge/Credly-Verified%20Badge-FF6B6B?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Verified Badge" />
+  <img src="https://images.credly.com/size/340x340/images/86687ad2-84e0-4d7c-876e-ea6c9fe25d82/blob" width="180" alt="Credly Verified Badge" />
 </a>
 
 ## Connect
