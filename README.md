@@ -89,9 +89,14 @@
 	</tr>
 </table>
 
-<a href="https://www.credly.com/badges/3beead14-75e8-447f-bef4-ca6ff14182ea/public_url">
-  <img src="https://images.credly.com/size/340x340/images/86687ad2-84e0-4d7c-876e-ea6c9fe25d82/blob" width="180" alt="Credly Verified Badge" />
-</a>
+<div align="center">
+  <a href="https://www.credly.com/badges/3beead14-75e8-447f-bef4-ca6ff14182ea/public_url">
+    <img src="https://images.credly.com/size/340x340/images/86687ad2-84e0-4d7c-876e-ea6c9fe25d82/blob" width="180" alt="Credly Verified Badge" />
+  </a>
+  <a href="https://github.com/features/copilot">
+    <img src="https://img.shields.io/badge/Microsoft_Pro-GitHub%20Copilot%20-%20Proficient-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" width="180" alt="Microsoft Pro Badge: GitHub Copilot - Proficient" />
+  </a>
+</div>
 
 ## Connect
 
