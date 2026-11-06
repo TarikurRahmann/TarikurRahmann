@@ -54,6 +54,7 @@
 		<td valign="top" width="50%">
 			<h3 align="center">National Achievements</h3>
 			<ul>
+				<li><strong>Gold Medalist</strong><br>ATLÂNTIA International STEM Olympiad 2026</li>
 				<li><strong>Gold Medalist</strong><br>8th World Invention Competition and Exhibition (WICE) 2026</li>
 				<li><strong>Special 5th Place</strong><br>47th National Science &amp; Technology Week 2026</li>
 				<li><strong>Finalist (National Round)</strong><br>Fibonacci International Robot &amp; STEM Olympiad 2026</li>
