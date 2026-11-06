@@ -54,6 +54,7 @@
 		<td valign="top" width="50%">
 			<h3 align="center">জাতীয় পর্যায়ের অর্জন</h3>
 			<ul>
+				<li><strong>স্বর্ণপদক</strong><br>ATLÂNTIA International STEM Olympiad ২০২৬</li>
 				<li><strong>স্বর্ণপদক</strong><br>৮ম World Invention Competition and Exhibition (WICE) ২০২৬</li>
 				<li><strong>বিশেষ ৫ম স্থান</strong><br>৪৭তম জাতীয় বিজ্ঞান ও প্রযুক্তি সপ্তাহ ২০২৬</li>
 				<li><strong>ফাইনালিস্ট (জাতীয় পর্ব)</strong><br>Fibonacci International Robot &amp; STEM Olympiad ২০২৬</li>
